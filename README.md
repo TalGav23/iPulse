@@ -10,4 +10,4 @@ Pulse measurement application programmed with C# in Xamarin platform, the server
 #
 ![IMG-3850](https://user-images.githubusercontent.com/50997706/167965918-89094586-9006-4f0a-96ab-ac86abe3b68c.png)
 #
-![IMG-3845](https://user-images.githubusercontent.com/50997706/167965906-05b620ca-4aa7-41cb-b605-5cdb426196e4.png)#
+![IMG-3845](https://user-images.githubusercontent.com/50997706/167965906-05b620ca-4aa7-41cb-b605-5cdb426196e4.png)
