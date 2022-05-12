@@ -1,7 +1,7 @@
 # iPulse - iOS Application
 iPulse App - Pulse measurement application, programmed with C# in Xamarin platform, the server is programmed in Python & the ESP32 board is programmed in Arduino.
 #
-![LogoBlueW](https://user-images.githubusercontent.com/50997706/167970565-852fa21d-b434-45bf-998a-42581c065f38.png)
+![LogoBlueW](https://user-images.githubusercontent.com/50997706/167970630-440639bd-4993-4132-b152-f701997b53ad.png)
 #
 ![IMG-3838](https://user-images.githubusercontent.com/50997706/167965895-35584c6f-ec80-4359-b569-cba6e327380d.png)
 #
